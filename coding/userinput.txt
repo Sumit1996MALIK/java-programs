@@ -1,0 +1,16 @@
+import java.util.*;
+public class UserInput {
+     public static void main(String args[]) {
+    Scanner sc=new Scanner(System.in);
+  
+	int j,i;
+	System.out.println("enter values");
+i=sc.nextInt();
+j=sc.nextInt();
+
+System.out.println(i+j);
+    	 
+		
+	}
+
+}
